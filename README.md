@@ -31,4 +31,4 @@ paseo plugin install /path/to/paseo-agent-autotitle   # 本地目录安装，改
 
 ## 许可证
 
-[0BSD](LICENSE)：可以任意使用、修改、再分发，无需保留版权声明。
+[MIT](LICENSE)
