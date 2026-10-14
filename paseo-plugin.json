@@ -1,0 +1,16 @@
+{
+  "id": "agent-autotitle",
+  "name": "Agent auto-title",
+  "description": "Rename new agent sessions with a short generated title after their first turn.",
+  "requirements": {
+    "paseo": ">=0.11.2"
+  },
+  "build": [
+    [
+      "npm",
+      "ci",
+      "--no-audit",
+      "--no-fund"
+    ]
+  ]
+}
